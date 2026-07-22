@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 Scripts/*.sql linguist-detectable=true
+*.csv linguist-vendored
+*.json linguist-vendored
